@@ -2,4 +2,4 @@
 A basic Hindi Word Detector made using OpenCV and Convolutional Neural Networks
 
 Collaborators-
-1.(@Bharat-mtr)(https://github.com/Bharat-mtr)
+1.https://github.com/Bharat-mtr 
