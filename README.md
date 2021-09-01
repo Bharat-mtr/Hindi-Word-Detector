@@ -1,4 +1,4 @@
-# Hindi-Word-Detector
+# Hindi Word Reader
 A basic Hindi Word Detector made using OpenCV and Convolutional Neural Networks
 
 Collaborators-
